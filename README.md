@@ -73,7 +73,7 @@ print("----------------------------------------------------------------------")
 ```
 
 ## Output :
-<img width="380" alt="image" src="https://github.com/TejaswiniGugananthan/Open-Jacson-Networks/assets/121222763/d9af6e97-84d3-4e44-a4d8-4a1ead71a52f">
+<img width="380" alt="image" src="https://github.com/TejaswiniGugananthan/Open-Jacson-Networks/assets/121222763/d9af6e97-84d3-4e44-a4d8-4a1ead71a52f
 
 
 
